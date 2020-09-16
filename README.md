@@ -1,12 +1,14 @@
+<p align="center">
+    <img alt="Dotfiles" src=".github/Dotfiles.png" width="350px" />
+</p>
+
+<br>
+
 <h3 align="center">
    📝 Dotfiles
 </h3>
 
 <p align="center">Estas são as configurações que estou usando atualmente no meu <b>editor de código</b>, <b>terminal</b> e <b>sistema operacional</b> para desenvolvimento de aplicações.</p>
-
-<p align="center">
-    <img alt="Dotfiles" src=".github/Dotfiles.png" width="350px" />
-</p>
 
 ## Índice
 
@@ -35,7 +37,7 @@
 - [Hyper](https://hyper.is/)
 - Tema: [Omni](https://github.com/getomni/hyper-omni)
 - Font: [JetBrains Mono](https://www.jetbrains.com/pt-pt/lp/mono/)
-- Configurações
+- Configurações:
     - [hyper,js](.hyper.js)
     - [zshrc](.zshrc)
     
