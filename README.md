@@ -16,6 +16,7 @@
 - [Terminal](#terminal)
 - [Ubuntu](#ubuntu)
 
+<a id="visual-studio-code"></a>
 ## ⚡ Visual Studio Code
 
 <p align="center">
@@ -28,6 +29,7 @@
 - [Extensões]()
 - [Configurações (settings.json)](vscode-settings.json)
 
+<a id="terminal"></a>
 ## 🚀 Terminal
 
 <p align="center">
