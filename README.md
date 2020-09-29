@@ -16,6 +16,9 @@
 - [Terminal](#terminal)
 - [Ubuntu](#ubuntu)
 
+<br />
+<br />
+
 <a id="visual-studio-code"></a>
 ## ⚡ Visual Studio Code
 
@@ -28,6 +31,10 @@
 - Font: [JetBrains Mono](https://www.jetbrains.com/pt-pt/lp/mono/)
 - [Extensões]()
 - [Configurações (settings.json)](vscode-settings.json)
+
+
+<br />
+<br />
 
 <a id="terminal"></a>
 ## 🚀 Terminal
