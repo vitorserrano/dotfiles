@@ -44,6 +44,9 @@
   "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
   "php.validate.executablePath": "/usr/bin/php",
 
+  // Colorize configuration
+  "colorize.languages": ["javascript", "json", "html", "css"],
+
   // Material Icons Folders associations
   "material-icon-theme.folders.associations": {
     "infra": "app",
