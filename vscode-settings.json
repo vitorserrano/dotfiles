@@ -1,6 +1,6 @@
 {
   // Workbench
-  "workbench.colorTheme": "Omni",
+  "workbench.colorTheme": "Aura Dark Plus Soft Text",
   "workbench.iconTheme": "material-icon-theme",
   "workbench.startupEditor": "newUntitledFile",
   "workbench.editor.labelFormat": "short",
@@ -20,8 +20,8 @@
   "editor.suggestSelection": "first",
   "editor.defaultFormatter": "esbenp.prettier-vscode",
 
-  // VsCode Stuff
-  "terminal.integrated.shell.osx": "/bin/zsh",
+  // VSCode Stuff
+  "terminal.integrated.shell.linux": "/bin/zsh",
   "window.zoomLevel": 0,
   "breadcrumbs.enabled": true,
   "explorer.confirmDragAndDrop": false,
@@ -40,12 +40,9 @@
   // Extensions
   "extensions.ignoreRecommendations": true,
   "git.enableSmartCommit": true,
-  "liveServer.settings.donotShowInfoMsg": true,
-  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
-  "php.validate.executablePath": "/usr/bin/php",
 
   // Colorize configuration
-  "colorize.languages": ["javascript", "json", "html", "css"],
+  "colorize.languages": ["javascript", "typescript", "json", "html", "css"],
 
   // Material Icons Folders associations
   "material-icon-theme.folders.associations": {
@@ -63,7 +60,8 @@
     "fakes": "mock",
     "websockets": "pipe",
     "protos": "pipe",
-    "grpc": "pipe"
+    "grpc": "pipe",
+    "types": "container"
   },
 
   // Material Icons Files associations

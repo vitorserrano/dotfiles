@@ -27,10 +27,25 @@
   <img alt="Dotfiles" src=".github/VSCode.png" width="950px" />
 </p>
 
-- Tema: [Omni](https://marketplace.visualstudio.com/items?itemName=rocketseat.theme-omni)
+- Tema: [Aura theme](https://marketplace.visualstudio.com/items?itemName=DaltonMenezes.aura-theme)
 - Pacote de ícones: [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 - Font: [JetBrains Mono](https://www.jetbrains.com/pt-pt/lp/mono/)
-- [Extensões]()
+- Extensões:
+
+  - [Script para instalar todas](install-extensions.sh)
+
+  1. Aura Theme
+  2. Code Runner
+  3. Colorize
+  4. ESLint
+  5. Material Icon Theme
+  6. Path intellisense
+  7. Prettier - Code formatter
+  8. Snapcode
+  9. vscode-styled-components
+  10. Rocketseat React Native
+  11. Rocketseat ReactJS
+
 - [Configurações (settings.json)](vscode-settings.json)
 
 <br />
@@ -45,7 +60,7 @@
 </p>
 
 - [Hyper](https://hyper.is/)
-- Tema: [Omni](https://github.com/getomni/hyper-omni)
+- Tema: [Aura theme](https://github.com/daltonmenezes/aura-theme/tree/master/packages/hyper-terminal)
 - Font: [JetBrains Mono](https://www.jetbrains.com/pt-pt/lp/mono/)
 - Configurações:
   - [hyper,js](.hyper.js)
@@ -62,23 +77,9 @@
   <img alt="Desktop" src=".github/Desktop.png" width="950px" />
 </p>
     
-- Versão: Ubuntu 20.04 LTS
-- Tema: [Omni](https://github.com/getomni/gtk-omni)
-- Shell: [Omni](https://github.com/getomni/gtk-omni)
-- Ícones: [Flatery-Dark](https://www.gnome-look.org/p/1332404/)
-- Cursor: [McMojave-cursors](https://www.gnome-look.org/p/1355701/)
-- Dock: [Plank]
-  - Tema: [Catalinas Trend Edition](https://www.gnome-look.org/p/1311056/)
+- Versão: KUbuntu 20.04 LTS
+- Tema: Dracula
+- Ícones: Tela purple
+- Cursor: WhiteSur-Cursors
+- Dock: Latte
 - Fonts: [Inter](https://fonts.google.com/specimen/Inter)
-  - Interface Text: Inter regular 11
-  - Document Text: Inter regular 11
-  - Monospace Text: Inter regular 13
-  - Legacy Window Titles: Inter bold 11
-- Extensões: 
-  - [Clipboard indicator](https://extensions.gnome.org/extension/779/clipboard-indicator/)
-  - [Emoji selector](https://extensions.gnome.org/extension/1162/emoji-selector/)
-  - [Transparent topbar](https://extensions.gnome.org/extension/1765/transparent-topbar/)
-  - [Tweaks in system menu](https://extensions.gnome.org/extension/1653/tweaks-in-system-menu/)
-  - [Ubuntu appindicators](https://extensions.gnome.org/extension/1301/ubuntu-appindicators/)
-  - [User themes](https://extensions.gnome.org/extension/19/user-themes/)
-  - [Vitals](https://extensions.gnome.org/extension/1460/vitals/)
